@@ -15,7 +15,7 @@ Welcome to the In App Purchasing System!
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/junaidahmadjm/Game-Start-Template.git](https://github.com/junaidahmadjm/In-App-Purchasing-System.git)
+   git clone https://github.com/junaidahmadjm/In-App-Purchasing-System.git
    ```
 2. Open the project in Unity:
    - Launch Unity Hub.
